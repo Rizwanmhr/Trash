@@ -163,7 +163,7 @@ const JunkRemoval = () => {
                     </Stack>
                   </Box>
                   <Box mt={2}>
-                    <Button text="Checkout" color="checkout" disabled />
+                    <Button text="Checkouts" color="checkout" disabled />
                   </Box>
                   <Stack>
                     <Typography
